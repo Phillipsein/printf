@@ -1,7 +1,7 @@
 # 0x11. C - printf
 Foundations - Low-level programming & Algorithm ― Hatching out
 by Julien Barbier, co-founder at Holberton School.
-Project to be done in teams of 2 people (your team: Cristhiam Camilo Baquero Gomez, Camilo Bayona Orduz)
+Project to be done in teams of 2 people (your team: Henock Adane, Phillip Ssempereza 
 
 ## Background Context
 * Write your own `printf` function.
@@ -246,9 +246,8 @@ Conversion specifiers to handle: d, i, u, o, x, X
 * GitHub repository: printf
 #
 ### Authors
+[Phillipsein](https://github.com/Phillipsein)
 
-* [Camilo Bayona Orduz](https://www.camilobayona.com) - *Initial work* - [cbayonao](https://github.com/cbayonao)
-* [Cristiam Camilo Baquero](https://www.camilobaquero.com) - *Initial work* - [camilooob](https://github.com/camilooob)
 
 ### Acknowledgments
 
